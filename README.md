@@ -37,7 +37,7 @@ The charts are designed to be self-explanatory and use light shades of blue thro
 
 ## Suggested Next Steps
 
-You can extend the notebook later with:
+
 
 - statistical hypothesis testing
 - regression modeling
